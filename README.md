@@ -11,6 +11,11 @@ Includes packet-level inspection, attacker profiling, and vulnerability investig
 
 >### Q1: Understanding the geographical origin of the attack aids in geo-blocking measures and threat intelligence analysis. What city did the attack originate from?
 
+![Wireshark Attack Capture](/Screenshots/Screenshot%202025-11-23%20at%201.04.21PM%202%20Small.jpeg)
+
+
+![User-Agent Capture](/Screenshots/Screenshot%202025-11-23%20at%201.06.33PM%20Small.jpeg)
+
 
 >### Q2: Knowing the attacker's user-agent assists in creating robust filtering rules. What's the attacker's user agent?
 
